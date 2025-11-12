@@ -4,7 +4,8 @@
 
 ### 学习目标
 
-![img](.\README.assets\kimi-fs%2Ffiles%2Fblob%2Fc5f54b7ed4292f4335ac8caf9198ef77eb87c871026d9b9d6175b18040edf367filename=image.png&sig=0J0UHstsdpBal18VoC0zfm3F--MSX9esF_4VilZ7jeE=&t=t)
+<img src="README.assets\kimi-fs%2Ffiles%2Fblob%2Fc5f54b7ed4292f4335ac8caf9198ef77eb87c871026d9b9d6175b18040edf367filename=image-17629214190361.png&sig=0J0UHstsdpBal18VoC0zfm3F--MSX9esF_4VilZ7jeE=&t=t" alt="img" style="zoom:67%;" />
+
 ### ✅ 一、基本设计原则
 
 #### 📚 学习资料推荐：
